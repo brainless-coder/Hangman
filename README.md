@@ -1,8 +1,7 @@
-<center>
-<h1>Hangman</h1>
-
-<img src="./images/hangman-1.png" height="100px">
-</center>
+<div align="center">
+    <h1>Hangman</h1>
+    <img src="./images/hangman-1.png" height="100px">
+</div>
 
 ## _**Rules**_
 - It is a word guessing game where you need to build a missing word by guessing one letter at a time.
@@ -25,12 +24,13 @@
 3. Open `index.html` in your browser to play the game.
 4. If you want to modify something, then `open this folder` in your favourite `code editor` and do the changes.
 
+
 # Screenshots
 
-<center>
-<img src="./images/screenshots/startGame.png" alt="Start Game" width="600">
-<img src="./images/screenshots/attempt-1.png" alt="Attempt 1" width="600">
-<img src="./images/screenshots/attempt-2.png" alt="Attempt 2" width="600">
-<img src="./images/screenshots/gameWon.png" alt="You Won" width="600">
-<img src="./images/screenshots/gameLost.png" alt="You Lost" width="600">
-</center>
+<div align="center">
+    <img src="./images/screenshots/startGame.png" alt="Start Game" width="600">
+    <img src="./images/screenshots/attempt-1.png" alt="Attempt 1" width="600">
+    <img src="./images/screenshots/attempt-2.png" alt="Attempt 2" width="600">
+    <img src="./images/screenshots/gameWon.png" alt="You Won" width="600">
+    <img src="./images/screenshots/gameLost.png" alt="You Lost" width="600">
+</div>
