@@ -3,6 +3,11 @@
     <img src="./images/hangman-1.png" height="100px">
 </div>
 
+## Want to Play the game
+> visit https://brainlesshangman.netlify.app and test your skills
+
+<br>
+
 ## _**Rules**_
 - It is a word guessing game where you need to build a missing word by guessing one letter at a time.
 - You will get 5 chances to guess the word.
